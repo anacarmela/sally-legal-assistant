@@ -1,18 +1,18 @@
 # Iurius Amicus
 
-Literally, your "legal friend"
+A chatbot that will interact with a person to gather facts and issues. These facts will be compared to existing jurisprudence or will be fed through a ranking algorithm based on heuristics for the lack thereof.
 
 
 ## Mission
 
-Currently, I am building the knowledge base for jurisprudence, laws, and statutes. I am trying to find out ways to accurately predict the nature of the case by leveraging on natural language processing (NLP) techniques and machine learning.
+To create a chatbot that will gather facts and issues and be able to determine whether or not it merits an actionable case.
 
 
 ## Vision
 
-To create a chatbot that will interact with indigents with their legal concerns. It is not a substitute for a competent legal counsel but could aid in legal research.
+A system that gathers facts and issues in real-time that will be able to determine whether or not there is an actionable case and to be able to generate a detailed report to be routed to the Public Attorney's Office and/or a legal aid of a University.
 
 
 ## TODO: Significance of the Study
 
-Most of the time the impoverished are not aware that they have an actionable case at all. While the Public Attorneys' Office (PAO) is there to address their concerns, some of them are hesitant to come forward because they find the process bureaucratic. To lay emphasis on the tool not being a replacement of a proper legal counsel, the chatbot feature could help in gathering facts and details of their legal concerns.
+Justice delayed is justice denied. <Insert Statistics here> Some of the reasons why the impoverished are afraid to seek legal remedy is the notion that litigation is expensive, and that the procedure can be bureaucratic. As an alternative, they seek the help of public affairs shows like "Wanted sa Radyo" which is not the right avenue to air concerns and to protect individual rights and privacy. The chatbot aims to help legal researchers by gathering facts and issues of the case, generate a detailed report with ranking results.
