@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom Folders
+pip/selenium-3.141.0
+environments/
+scraper/.ipynb_checkpoints
+scripts/
+
+# Custom Files
+scraper/geckodriver.log
