@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+environments/development/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom Folders
+pip/selenium-3.141.0/
+scripts/js/
+
+# Custom Files
+scraper/geckodriver.log
+
+# IPython Logs
+scraper/.ipynb_checkpoints/
