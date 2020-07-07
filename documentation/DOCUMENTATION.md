@@ -1,5 +1,11 @@
 # Official Iurius Amicus Documentation
 
-This is a private repository being maintained by **Ana Carmela Salazar**'s team. Kindly contact her for access.
+Iurius Amicus is a three-part project: a mobile interface chatbot that will interact with the client, a speech-to-text-integrated parser, and a ranking algorithm.
 
-Repository Link: [Iurius Amicus Documentation](https://github.com/acpsalazar/lexami_documentation.git)
+![Process Flowchart](/documentation/Iurius\ Amicus\ Process\ Flowchart.png)
+
+## TODO: Mobile Chatbot
+
+## TODO: Meta-legal Parser
+
+## TODO: Ranking Algorithm

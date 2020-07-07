@@ -10,6 +10,8 @@ class ConnectNordVPN(VPNConnection):
     def connect_to_vpn():
 
         subprocess.call("nordvpn connect", shell=True)
+        subprocess.call("nordvpn set killswitch on", shell=True)
+        subprocess.call("nordvpn set cybersec on", shell=True)
 
     def disconnect_to_vpn():
 
