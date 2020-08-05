@@ -1,4 +1,4 @@
-# Iurius Amicus
+# Sally the Paralegal
 
 A chatbot that will interact with a person to gather facts and issues. These facts will be compared to existing jurisprudence or will be fed through a ranking algorithm based on heuristics for the lack thereof.
 
