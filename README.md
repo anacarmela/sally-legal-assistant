@@ -1,6 +1,6 @@
 # Sally, Legal Assistant
 
-A transcription tool to help in conducting preliminary interview with client. It is interested to know whether or not there is an actionable case.
+A transcription tool that aims to help in conducting a preliminary interview with client. It is interested to know whether or not there is an actionable case.
 
 
 ## Mission
@@ -15,4 +15,4 @@ A system that gathers facts and issues in real-time that will be able to determi
 
 ## Significance of the Study
 
-Justice delayed is justice denied. One of the reasons why the impoverished are afraid to seek legal remedy is the notion that litigation is expensive and the procedure can be bureaucratic. As an alternative, they seek the help of public affairs shows which is not the right avenue to air concerns and to protect individual rights and privacy. The chatbot aims to help legal researchers by gathering the narrative of the client's complaint, and by utilizing a ranking algorithm with the legal knowledgebase, it generates a report recommending relevant jurisprudence, statutes, and other legal bases.
+Justice delayed is justice denied. One of the reasons why the impoverished are afraid to seek legal remedy is the notion that litigation is expensive and the procedure can be bureaucratic. As an alternative, they seek the help of public affairs shows which is not the right avenue to air concerns and to protect individual rights and privacy. The transcription tool aims to help legal researchers by gathering the narrative of the client's complaint, and by utilizing heuristics and ranking algorithms to assess whether or not it merits an actionable case which will be placed in a report that will be forwarded to competent legal providers.
