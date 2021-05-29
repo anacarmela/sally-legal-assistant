@@ -1,6 +1,6 @@
 # Sally, Legal Assistant
 
-A transcription tool that aims to help in conducting a preliminary interview with client. It is interested to know whether or not there is an actionable case.
+A chatbot, a recommender system and a queueing system
 
 
 ## Mission
