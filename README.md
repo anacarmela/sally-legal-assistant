@@ -1,4 +1,4 @@
-# Sally, Legal Assistant
+# Saul
 
 A chatbot, a recommender system and a queueing system
 
