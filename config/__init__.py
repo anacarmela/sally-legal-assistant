@@ -1,3 +1,0 @@
-from config import GECKO_DRIVER_PATH
-from config import CHROME_DRIVER_PATH
-from config import E_LIBRARY_LOGIN
